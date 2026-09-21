@@ -1,0 +1,13 @@
+# Rascunhos e ficheiros de referência (não fazem parte do site)
+portifolio_modelo.html
+portifolio_modelo.html.bak
+portifolio,tela.html
+portifolio,tela.html.bak
+teste.html
+teste.html.bak
+
+# Backups
+*.bak
+
+# Sistema
+.DS_Store
